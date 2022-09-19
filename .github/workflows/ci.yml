@@ -20,4 +20,3 @@ jobs:
       - run: |
           mkdocs gh-deploy --force
           mkdocs --version
-
