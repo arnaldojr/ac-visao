@@ -33,9 +33,20 @@ extra_javascript:
   - js/termynal.js
   - js/custom.js
 
+extra:
+  ihandout_config:
+#    counter:
+#      - question
+#      - tip
+#      - exercise
+#      - example
+    report:
+      api-base: https://devlife.insper-comp.com.br/api/offerings/1/
+      url: https://devlife.insper-comp.com.br/api/offerings/1/exercises/
+
 # Extensions / plugins
 plugins:
-#  - git-revision-date-localized
+  - git-revision-date-localized
   - search
   - mkdocs-jupyter:
       execute: False

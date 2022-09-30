@@ -11,5 +11,8 @@ O script ``emulatecla.py`` realiza o processamento de imagem para segmentação 
 
 > - instale a biblioteca ``pynput`` no terminal digite: pip install pynput
 
-!!!video
-    ![](segmenta_melancia.mp4)
+!!! video
+    ![](https://youtu.be/LEsDMKGUx5I)
+
+!!! video
+    ![](https://youtu.be/0pjg606_eWg)
