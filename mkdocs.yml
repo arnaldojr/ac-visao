@@ -88,7 +88,9 @@ nav:
   - aula2: 
     - Jupyter Notebook: aulas/aula2/aula2.ipynb
     - usando webcam: aulas/aula2/webcam/index.md
-  - aula3: aulas/aula3/Espaço-cor-contorno.ipynb
+  - aula3: 
+    - Jupyter Notebook: aulas/aula3/Espaço-cor-contorno.ipynb
+    - Controle game visão: aulas/aula3/emulatecla/index.md
   - Material Extra: 
     - Detector de sono - dlib: aulas/extra/detectorfaces/dlib2.ipynb
     - Medidor de ângulos - transferidor: aulas/extra/transferidor/EventMouse.ipynb
